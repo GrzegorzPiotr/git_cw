@@ -1,3 +1,4 @@
 Hello Grzes
 
-co tam
+zainicjuje 
+int a = 3; 
