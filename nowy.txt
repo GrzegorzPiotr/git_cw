@@ -1,4 +1,6 @@
 Hello Grzes
 
-zainicjuje 
-int a = 3; 
+
+zainicjuj 
+int a = 1; 
+
